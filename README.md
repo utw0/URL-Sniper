@@ -1,7 +1,7 @@
-Discord URL Sniper
+### Discord URL Sniper
 Özel Vanity URL Kapma Aracı (C# ve Electron)
 
-Detaylı acıklama bilgi almak veya satın almak için discorddan bana ulaşabilirsiniz [luhux](https://discord.com/users/341592492224806914)
+# Detaylı acıklama bilgi almak veya satın almak için discorddan bana ulaşabilirsiniz [luhux](https://discord.com/users/341592492224806914)
 
 # ???? Discord URL Sniper - Özel Vanity URL Kapma Aracı (C# ve Electron)
 
