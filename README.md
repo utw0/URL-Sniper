@@ -52,3 +52,17 @@ Discord sunucunuza özel URL (vanity) elde etmek istiyorsanız, bu profesyonel y
 ## ???? KURULUM VE KULLANIM
 
 Program tamamen portable'dır, kurulum gerektirmez. Sadece indirin, bilgilerinizi girin ve kullanmaya başlayın!
+
+<details>
+  <summary>GÖRSEL</summary>
+
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| GÖRSEL | <img alt="image" src= "https://github.com/user-attachments/assets/2dddabd7-8c5a-4ef8-99d5-5ea488537a41"> |
+| GÖRSEL | <img alt="image" src= "https://github.com/user-attachments/assets/01c8ba2e-948c-481d-8e0f-6e056dda9d47"> |
+| GÖRSEL | <img alt="image" src= "https://github.com/user-attachments/assets/acfc249c-b224-44aa-bb50-d231e1d2464f"> |
+| GÖRSEL | <img alt="image" src= "https://github.com/user-attachments/assets/aea23d6a-5774-4120-87fa-e95292bdaec7"> |
+
+
+</details>
+
